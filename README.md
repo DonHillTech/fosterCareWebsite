@@ -1,2 +1,4 @@
 # fosterCareWebsite
-Help Foster Care Advocacy Group  of Fairfax County 
+
+Repository for collaboration on the website for Foster Care Advocacy Group of Fairfax County.
+
